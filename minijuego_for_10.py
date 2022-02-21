@@ -10,4 +10,4 @@ else:
         dado = randint(1, 6)
         print(dado, end=" ")
         cuenta = dado + 0
-        if a > b:
+        if
